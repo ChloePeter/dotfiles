@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = Chloe1peter@outlook.fr
+	name = Chloe Peter
